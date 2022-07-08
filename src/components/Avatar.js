@@ -1,0 +1,25 @@
+import React, { Fragment, useState } from "react";
+import { Menu, Transition } from "@headlessui/react";
+import { Link } from "react-router-dom";
+import ModalAvatar from "./ModalAvatar";
+
+const Avatar = () => {
+  const [isAvatar, setIsAvatar] = useState(false);
+
+  const handleLogout = () => {};
+
+  return (
+    <div className="">
+      {isAvatar && <ModalAvatar setIsAvatar={setIsAvatar} />}
+
+      <img
+        onClick={() => setIsAvatar(true)}
+        src="data:image/jpeg;base64,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"
+        alt=""
+        className="cursor-pointer rounded-full h-auto w-10 border-2 p-[2px] border-black hover:border-secondary hover:duration-300"
+      />
+    </div>
+  );
+};
+
+export default Avatar;

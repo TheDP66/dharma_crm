@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "SMART Premium",
+      "description": "ketersediaan koneksi internet Anda selama 24 jam nonstop. Layanan ini sangat tepat bagi industri yang bergerak dibidang perbankan, saham, export/import dan sebagainya.",
+      "price": 150000,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "category": "Dedicated Connectivity",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "SMART Corporate",
+      "description": "Koneksi prima dengan harga yang terjangkau, bagi bisnis Anda yang membutuhkan koneksi dengan jaringan internet baik Internasional & domestik yang cepat dan stabil. Dengan adanya Fitur SLA 99% dan didukung backup upstream pada D~NET Corporate menjamin koneksi Anda stabil & aman selama 24 jam.",
+      "price": 350000,
+      "discountPercentage": 10,
+      "rating": 4.09,
+      "category": "Dedicated Connectivity",
+      "thumbnail": "https://akcdn.detik.net.id/visual/2016/03/21/1c9fa259-8248-4977-a426-1d6c878da817_169.jpg?w=1080"
+    },
+    {
+      "id": 3,
+      "title": "SMART IIX",
+      "description": "Menyediakan akses utama ke Indonesia Internet Exchange (IIX) dengan lebih cepat & hemat tanpa harus routing ke backbone Internasional. Layanan tepat untuk interkoneksi data domestik & Virtual Private Network yang tidak memerlukan akses ke server international bagi industri lokal Anda.",
+      "price": 550000,
+      "discountPercentage": 4.26,
+      "rating": 4.14,
+      "category": "Dedicated Connectivity",
+      "thumbnail": "https://cdn1-production-images-kly.akamaized.net/2T5AbHe2TTgqkGD1HXlohY03Oog=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1648859/original/099754000_1500033263-Masterplan_Kota_Jababeka.jpg"
+    },
+    {
+      "id": 4,
+      "title": "SMART Loop",
+      "description": "Layanan ini tepat untuk perusahaan yang memiliki cabang di berbagai wilayah Indonesia yang memerlukan hubungan langsung antara kantor pusat dengan kantor cabang. Kapasitas & kualitas koneksi setara dengan sistem kabel, D~NET loop menjamin kelancaran komunikasi dan pertukaran data lokal perusahaan.",
+      "price": 950000,
+      "discountPercentage": 2.96,
+      "rating": 4.99,
+      "category": "Dedicated Connectivity",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "SMART Flex",
+      "description": "Layanan internet D~NET Flex dengan harga terjangkau. Pilihan yang tepat untuk menikmati kenyamanan browsing hingga streaming selama 24 jam non stop.",
+      "price": 250000,
+      "discountPercentage": 5.26,
+      "rating": 4.66,
+      "category": "Broadband Internet Connectivity",
+      "thumbnail": "https://static.vecteezy.com/system/resources/thumbnails/001/296/499/original/man-is-using-tablet-video.jpg"
+    },
+    {
+      "id": 6,
+      "title": "SMART Premium",
+      "description": "ketersediaan koneksi internet Anda selama 24 jam nonstop. Layanan ini sangat tepat bagi industri yang bergerak dibidang perbankan, saham, export/import dan sebagainya.",
+      "price": 1500000,
+      "discountPercentage": 1.96,
+      "rating": 4.5,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "SMART DREAMS",
+      "description": "Sebuah aplikasi messaging solutions berbasis email yang dapat membantu proses bisnis Anda khususnya dalam hal surat menyurat elektronik dan komunikasi dengan jaringan internal perusahaan Anda. DREAMS menggunakan metode secure email yang dilengkapi dengan fitur DKIM, SSL, Antivirus, & Spam Checker dimana Anda dapat melakukan aktivitas email dengan aman dan nyaman.",
+      "price": 550000,
+      "discountPercentage": 5.96,
+      "rating": 4.79,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "SMART Colocation",
+      "description": "Layanan yang menyediakan tempat penyimpanan untuk server maupun perangkat lain termasuk koneksi Internet ke Backbone Internet/IIX (Optional) dan tenaga listrik di Data Center milik D~NET. Perangkat pelanggan akan terjaga selama 24 jam, serta diawasi tim dukungan teknis yang berpengalaman.",
+      "price": 450000,
+      "discountPercentage": 1.96,
+      "rating": 4.89,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "SMART WiFi Manage Service",
+      "description": "Kenali dan pahami pelanggan Anda dengan D~NET Smart WiFi Manage Service. Tentukan strategi marketing yang tepat dan tingkatkan penjualan bisnis Anda. Dilengkapi juga dengan teknologi terintegrasi untuk kemudahan manajemen seluruh perangkan WiFi Anda.",
+      "price": 150000,
+      "discountPercentage": 1.6,
+      "rating": 4.7,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "SMART Gateway",
+      "description": "Layanan pengaturan perangkat mikrotik yang dilakukan oleh pihak D~NET untuk mengatur seluruh aktifitas internet sesuai dengan preferensi customer D~NET.",
+      "price": 250000,
+      "discountPercentage": 2,
+      "rating": 4,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "SMART Voice",
+      "description": "Solusi telepon hemat dengan teknologi VoIP untuk bisnis Anda. Simpan biaya telekomunikasi Anda untuk biaya lain yang lebih penting dan dapatkan penghematan biaya telepon hingga 70% dengan menggunakan D~NET Voice.",
+      "price": 450000,
+      "discountPercentage": 6,
+      "rating": 4.77,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "SMART Cloudware",
+      "description": "Jaminan perlindungan yang handal dan mudah bagi seluruh data penting bisnis Anda dari berbagai ancaman risiko. Cloudware dilengkapi dengan dua jenis layanan handal Cloudware Backup Data dan Disaster Recovery untuk asuransi data bagi bisnis Anda yang berharga.",
+      "price": 650000,
+      "discountPercentage": 12.6,
+      "rating": 4.9,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "SMART WiFi Ads",
+      "description": "D~NET WiFi Ads adalah platform media offline ke online untuk terhubung dengan pelanggan Anda melalui koneksi WiFi. Anda dapat menargetkan pengunjung secara tepat pada waktu yang tepat, dengan cara ini kami dapat mendorong pelanggan baru untuk terlibat dengan brand anda.",
+      "price": 550000,
+      "discountPercentage": 14.6,
+      "rating": 4.8,
+      "category": "Solusi Bisnis",
+      "thumbnail": "https://cdn0-production-images-kly.akamaized.net/hI4EvStA38qOE_hopLbqnN-dtrI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1383177/original/094577200_1477297071-internet_.jpg"
+    }
+  ]
+}
